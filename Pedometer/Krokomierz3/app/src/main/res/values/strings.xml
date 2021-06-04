@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Krokomierz</string>
+    <string name="start">Start</string>
+    <string name="_0">0</string>
+    <string name="_00">00</string>
+    <string name="kalorie">Kalorie</string>
+    <string name="licz">Licz</string>
+    <string name="kroki">Kroki</string>
+    <string name="reset">Reset</string>
+    <string name="cal">cal</string>
+    <string name="ilo_krok_w">Ilość kroków</string>
+    <string name="kcal">kcal</string>
+</resources>
